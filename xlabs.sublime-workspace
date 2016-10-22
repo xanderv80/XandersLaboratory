@@ -155,7 +155,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2653,
+				"buffer_size": 520,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/Tarocchi.js",
+			"settings":
+			{
+				"buffer_size": 2151,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -207,6 +216,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Xander/Documents/GitHub/XandersLaboratory/BabylonJS/Exporters/Blender/readme.md",
 		"/C/Users/Xander/Documents/GitHub/Resumae/index.html",
 		"/C/Users/Xander/Documents/GitHub/Resumae/js/main.js",
 		"/C/Users/Xander/Documents/GitHub/Resumae/css/style.css",
@@ -269,7 +279,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -278,15 +288,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2653,
+						"buffer_size": 520,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1068,
-								1068
+								520,
+								520
 							]
 						],
 						"settings":
@@ -294,14 +304,44 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 9.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/Tarocchi.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 87.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
@@ -327,7 +367,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
